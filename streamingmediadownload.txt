@@ -3440,3 +3440,5 @@ max.com
 arte.tv
 max.*
 hbo.com
+wixsite.com
+liveflixbr.*
