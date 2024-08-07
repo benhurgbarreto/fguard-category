@@ -3443,3 +3443,4 @@ hbo.com
 wixsite.com
 liveflixbr.*
 disneyplus.*
+tv.apple.com
