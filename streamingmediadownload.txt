@@ -3442,3 +3442,4 @@ max.*
 hbo.com
 wixsite.com
 liveflixbr.*
+disneyplus.*
