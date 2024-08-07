@@ -3436,7 +3436,7 @@ zoukzone.free.fr
 zozolh.free.fr
 ztec.free.fr
 zurnamp3s.hypermart.net
-arte.tv
 max.com
+arte.tv
 max.*
 hbo.com
